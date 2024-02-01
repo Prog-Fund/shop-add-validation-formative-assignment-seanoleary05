@@ -30,6 +30,7 @@ public class Driver{
                   3) Display average product unit cost
                   4) Display cheapest product
                   5)
+                  6)
                   0) Exit
                ==>> """);
         int option = input.nextInt();
